@@ -3,6 +3,10 @@ XSLX
 xlsx is intended to be a library to simplify reading the XML format
 used by recent version of Microsoft Excel in Go programs.
 
+[https://github.com/tealeg/xlsx2csv/blob/master/main.go](https://github.com/tealeg/xlsx2csv/blob/master/main.go)
+
+具体的例子可以参考此程序！
+
 Currently it is in the very early stages and development and only does very basic reading.  It should progress rapidly, please feel free to help out.
 
 There are no current plans to support writing documents.
